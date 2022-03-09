@@ -32,5 +32,5 @@ I would describe myself as an enterprising and motivated engineer who tries to c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGerosa&langs_count=8)](https://github.com/PaoloGerosa/github-readme-stats)
 
 :loudspeaker: **Contacts:**
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/PaoloGerosa)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-gerosa-255481187/)
 - `paolo.gerosa@gmail.com`
