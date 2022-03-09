@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there, I'm Paolo :four_leaf_clover:
+
+I am a Software Engineering and Data Science student at Politecnico di Milano.
+
+I would describe myself as an enterprising and motivated engineer who tries to collaborare with other people and make the most of everything.
+
+:mortar_board: **Education:**
+ - Master of Science in Mathematical Engineering, Statistical Learning at `Politecnico di Milano`
+ - Bachelor of Science in Mathematical Engineering  at `Politecnico di Milano`
+
+:pushpin: **Projects:**
+ - [CALI Analysis](https://github.com/PaoloGerosa/Chemotherapy-Associated-Liver-Injury) 
+ - [Real Estate](https://github.com/PaoloGerosa/Real_Estate)
+ - [Bayesian Estimation Spatial Lag Autocorrelation Model](https://github.com/PaoloGerosa/Bayesian-Estimation-Spatial-Lag-Autocorrelation-Model) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloGerosa&langs_count=8)](https://github.com/PaoloGerosa/github-readme-stats)
+
+:loudspeaker: **Contacts:**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/PaoloGerosa)
+- `paolo.gerosa@gmail.com`
