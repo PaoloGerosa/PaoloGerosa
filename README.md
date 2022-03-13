@@ -34,3 +34,4 @@ I would describe myself as an enterprising and motivated engineer who tries to c
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-gerosa-255481187/)
 - `paolo.gerosa@gmail.com`
+
